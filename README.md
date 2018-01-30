@@ -2,7 +2,7 @@
 [![SDI](https://img.shields.io/badge/course-currently%20taking%20place-brightgreen.svg)](#subject_stage)
 
 
-Subject GIISOFT01-3-005 from University of Oviedo.
+Subject GIISOF01-3-005 from University of Oviedo.
 
 Here you will find the code from the labs and individual work regarding the subject of Sistemas Distribuidos e Internet. This subject comes from the University of Oviedo.
 
